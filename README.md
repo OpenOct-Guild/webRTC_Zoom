@@ -22,7 +22,7 @@ A simple WebRTC-based video conferencing system with a basic HTML/CSS frontend a
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/saiyam0211/webRTC_Zoom.git
+   git clone https://github.com/OpenOct-Guild/webRTC_Zoom.git
    cd webRTC_Zoom
    ```
 
